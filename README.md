@@ -39,8 +39,10 @@ At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technol
 
 ## 📩 Contact Us
 Looking to build your next big project? **Let’s collaborate!**
-- 🌐 Website: [Coming Soon](#)
+- 🌐 Website: [zappseeder](https://zappseeder.com/)
 - 📧 Email: [contact@zappseeder.com](mailto:contact@zappseeder.com)
-- 📱 Telegram: [@ZappseederSupport](#)
+- 📘 Facebook: [@zappseeder](https://www.facebook.com/zappseeder/)
+- 🐦 X (Twitter): [@zappseeder](https://x.com/zappseeder)
+- 🔗 LinkedIn: [@zappseeder](https://www.linkedin.com/company/zappseeder)
 
 📍 *Bringing Your Ideas to Life with Cutting-Edge Technology!*
