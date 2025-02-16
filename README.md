@@ -1,4 +1,9 @@
 <h1 align="center"> ZappSeeder - Digital Services Agency </h1> <br>
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="[http://i.imgur.com/VShxJHs.png](https://imgur.com/a/jujkH5v)" width="450">
+  </a>
+</p>
 
 Welcome to **Zappseeder**, your trusted partner in modern software solutions. We specialize in building **web, mobile, and desktop applications** that are scalable, secure, and user-friendly. Our team of experts is dedicated to delivering high-quality digital experiences for businesses of all sizes.
 
