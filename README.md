@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Welcome to **Zappseeder**, your trusted partner in modern software solutions. We specialize in building **web, mobile, and desktop applications** that are scalable, secure, and user-friendly. Our team of experts is dedicated to delivering high-quality digital experiences for businesses of all sizes.
+Welcome to **Zappseeder** 👋, your trusted partner in modern software solutions. We specialize in building **web, mobile, and desktop applications** that are scalable, secure, and user-friendly. Our team of experts is dedicated to delivering high-quality digital experiences for businesses of all sizes.
 
 ## 🚀 About Us
 At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technology** to provide top-tier software development services. Our expertise spans across:
