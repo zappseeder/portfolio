@@ -47,6 +47,11 @@ At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technol
 - **Description:** A seamless web platform
 - [Qawaemunit](https://www.qawaemunit.com/)
 
+### 8. **RealEstates Website**
+- **Description:** A scalable and secure Realestates website
+- [Akarat Madinaty](https://www.akaratmadinaty.org/)
+
+
 ## 🔧 Our Tech Stack
 - **Frontend:** React based frameworks (Nextjs, Gatsby)
 - **Backend:** Rust, PHP (Laravel), Node.js and Python
