@@ -1,4 +1,4 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> ZappSeeder - Digital Services Agency </h1> <br>
 
 Welcome to **Zappseeder**, your trusted partner in modern software solutions. We specialize in building **web, mobile, and desktop applications** that are scalable, secure, and user-friendly. Our team of experts is dedicated to delivering high-quality digital experiences for businesses of all sizes.
 
