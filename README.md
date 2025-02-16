@@ -1,5 +1,3 @@
-<h3 align="center">ZappSeeder - Digital Services Agency</h3> <br>
-
 <p align="center">
   <a href="https://zappseeder.com/">
     <img alt="ZappSeeder" title="ZappSeeder" src="https://i.imgur.com/OjuI2eN.png" width="450">
