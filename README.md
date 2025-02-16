@@ -10,7 +10,7 @@ Welcome to **Zappseeder**, your trusted partner in modern software solutions. We
 
 ## 🚀 About Us
 At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technology** to provide top-tier software development services. Our expertise spans across:
-- Web Development (**Next.js, Rust, PHP, Laravel**)
+- Web Development (**Next.js, Rust, PHP, Laravel, Python, Postgresql**)
 - Mobile App Development (**Flutter, iOS, Android**)
 - Desktop App Development (**Electron, Rust, Python**)
 - UI/UX Design
@@ -38,6 +38,14 @@ At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technol
 ### 5. **RealEstates Website**
 - **Description:** A scalable and secure Realestates website
 - [Contact Madinaty](https://www.contact-madinaty.com/)
+
+- ### 6. **Telegram 2FA Authentication for Steam accounts store Bot**
+- **Description:** A secure Telegram bot for managing 2FA authentication codes.
+- [7leSteam](https://web.telegram.org/k/#@hllestore_bot)
+
+- ### 7. **Qawaemunit Website**
+- **Description:** A seamless web platform
+- [Qawaemunit](https://www.qawaemunit.com/)
 
 ## 🔧 Our Tech Stack
 - **Frontend:** React based frameworks (Nextjs, Gatsby)
