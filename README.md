@@ -19,26 +19,30 @@ At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technol
 
 ## 🏆 Featured Projects
 
-### 1. **News Mobile & Web App**
-- **Technologies:** Flutter, Next.js, Rust, PostgreSQL
+### 1. **AI chatting bot Web platform**
+- **Description:** multi AI services web platform.
+- [JawabVip](https://jawab-vip.com/en)
+
+### 2. **News Mobile & Web App**
 - **Description:** A seamless mobile and web platform for real-time news updates with a modern UI/UX.
+- [SyriaZone](https://souriazone.com/)
 
-### 2. **POS System (SaaS Solution)**
-- **Technologies:** PHP Laravel, React, PostgreSQL, Docker
+### 3. **POS System (SaaS Solution)**
 - **Description:** A cloud-based point-of-sale system with multi-store and multi-user support.
+- [ZappOcean](https://zappocean.com/)
 
-### 3. **Telegram 2FA Authentication Bot**
-- **Technologies:** Python (Aiogram), PostgreSQL, Docker
+### 4. **Telegram 2FA Authentication Bot**
 - **Description:** A secure Telegram bot for managing 2FA authentication using TOTP codes.
+- [GoogleAuth](https://web.telegram.org/k/#@gauth_bot)
 
-### 4. **E-commerce Web & Mobile Platform**
-- **Technologies:** Next.js, Flutter, Rust, Stripe API
-- **Description:** A scalable and secure e-commerce platform with payment gateway integration.
+### 5. **RealEstates Website**
+- **Description:** A scalable and secure Realestates website
+- [Contact Madinaty](https://www.contact-madinaty.com/)
 
 ## 🔧 Our Tech Stack
-- **Frontend:** Next.js, React, TailwindCSS
-- **Backend:** Rust, PHP (Laravel), Node.js
-- **Database:** PostgreSQL, Firebase, Supabase
+- **Frontend:** React based frameworks (Nextjs, Gatsby)
+- **Backend:** Rust, PHP (Laravel), Node.js and Python
+- **Database:** PostgreSQL, MongoDB, Firebase and Supabase
 - **Mobile:** Flutter (iOS & Android)
 - **Infrastructure:** Docker, Kubernetes, AWS, Google Cloud
 - **Version Control:** Git, GitHub Actions, CI/CD
