@@ -1,4 +1,4 @@
-<h1 align="center">ZappSeeder - Digital Services Agency</h1> <br>
+<h3 align="center">ZappSeeder - Digital Services Agency</h3> <br>
 
 <p align="center">
   <a href="https://zappseeder.com/">
