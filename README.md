@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://zappseeder.com/">
-    <img alt="GitPoint" title="ZappSeeder" src="https://i.imgur.com/sjH1rzx.png" width="450">
+    <img alt="ZappSeeder" title="ZappSeeder" src="https://i.imgur.com/OjuI2eN.png" width="450">
   </a>
 </p>
 
