@@ -1,4 +1,5 @@
-<h1 align="center"> ZappSeeder - Digital Services Agency </h1><p>☀️🌻🚀</p> <br>
+<h1 align="center"> ZappSeeder - Digital Services Agency </h1> <br>
+<h3>☀️🌻🚀</h3>
 <p align="center">
   <a href="https://zappseeder.com/">
     <img alt="GitPoint" title="ZappSeeder" src="https://i.imgur.com/sjH1rzx.png" width="450">
