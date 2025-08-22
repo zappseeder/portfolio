@@ -39,7 +39,7 @@ At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technol
 
 - ### 6. **Telegram 2FA Authentication for Steam accounts store Bot**
 - **Description:** A secure Telegram bot for managing 2FA authentication codes.
-- [7leSteam](https://web.telegram.org/k/#@hllestore_bot)
+- [7leSteam](https://t.me/hllestore_bot)
 
 - ### 7. **Qawaemunit Website**
 - **Description:** A seamless web platform
