@@ -31,7 +31,7 @@ At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technol
 
 ### 4. **Telegram 2FA Authentication Bot**
 - **Description:** A secure Telegram bot for managing 2FA authentication using TOTP codes.
-- [GoogleAuth](https://web.telegram.org/k/#@gauth_bot)
+- [GoogleAuth](https://t.me/gauth_bot)
 
 ### 5. **RealEstates Website**
 - **Description:** A scalable and secure Realestates website
