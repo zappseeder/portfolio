@@ -23,7 +23,7 @@ At **Zappseeder**, we combine **innovation, creativity, and cutting-edge technol
 
 ### 2. **News Mobile & Web App**
 - **Description:** A seamless mobile and web platform for real-time news updates with a modern UI/UX.
-- [SyriaZone](https://souriazone.com/)
+- [SyriaZone](https://souriazone.sy/)
 
 ### 3. **POS System (SaaS Solution)**
 - **Description:** A cloud-based point-of-sale system with multi-store and multi-user support.
